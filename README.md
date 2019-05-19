@@ -1,7 +1,7 @@
 # Interaction_Methods
 This is a custom built class that contains useful methods to interact with web pages using Selenium.
 <br>
-Please feel free to use this class.
+Feel free to use this class in your projects.
 # Quick Start
 1. Install Chrome.
 2. Install the Chrome Driver executable: <br />
