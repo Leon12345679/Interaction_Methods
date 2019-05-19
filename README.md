@@ -11,3 +11,6 @@ Other systems: https://goo.gl/pnm3Xd.
 
 If you don't have Homebrew run this in the terminal to install: <br />
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+# Support
+If you have any questions or suggestions regarding this script you can contact me here: <br>
+Leon.Vladimirov@gmail.com
